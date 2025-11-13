@@ -6,7 +6,7 @@ body {
   background: #faf0f0;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-#home-score, #guest-score{
+#home-score, #away-score{
     color: red;
     background: black;
     border: none;
